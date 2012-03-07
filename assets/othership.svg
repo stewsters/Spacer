@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg3011"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="othership.svg">
+  <defs
+     id="defs3013" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.7781746"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="759"
+     inkscape:window-height="536"
+     inkscape:window-x="433"
+     inkscape:window-y="263"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3016">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#008000"
+       d="M 16.09375 26.9375 C 11.879272 28.880944 9.28125 31.554603 9.28125 34.53125 C 9.28125 37.148351 11.303955 39.570534 14.65625 41.4375 L 14.65625 42.78125 L 17.625 42.78125 C 21.626659 44.331797 26.764687 45.28125 32.375 45.28125 C 38.209686 45.28125 43.528163 44.257075 47.59375 42.59375 L 50.71875 42.59375 L 50.71875 41.1875 L 50.5 41.1875 C 53.602425 39.356466 55.46875 37.038193 55.46875 34.53125 C 55.46875 31.917678 53.437312 29.548448 50.09375 27.6875 C 50.264459 28.162124 50.375 28.657964 50.375 29.15625 C 50.375 33.382633 43.985571 36.876265 35.625 37.5 L 35.625 28.375 L 29.6875 28.375 L 29.6875 37.46875 C 21.594281 36.735676 15.46875 33.288935 15.46875 29.15625 C 15.46875 28.392996 15.702299 27.640837 16.09375 26.9375 z "
+       id="path3019" />
+  </g>
+</svg>
